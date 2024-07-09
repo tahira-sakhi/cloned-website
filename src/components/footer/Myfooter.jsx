@@ -71,10 +71,10 @@ function Footer() {
             <div className="ContactInfoItems">
               <ul>
                 <li>
-                  Jl. Danau Tamblingan No.180, Sanur, Denpasar, Bali 80222
+                 Jutial Gilgit
                 </li>
                 <li>support@domain.com</li>
-                <li>(+62) 887-1106-22814</li>
+                <li>(+92) 3441803316</li>
               </ul>
             </div>
           </div>
@@ -82,11 +82,11 @@ function Footer() {
       </div>
       <div className="copyright">
         <div className="copyrightItems">
-          <li>Copyright © {currentYear} Jegtheme. All rights reserved.</li>
+          <li>Copyright © {currentYear} Tahi Sakhi. All rights reserved.</li>
           <li>
             <img src="./src/components/footer/t.jpg" alt="" />
           </li>
-          <li>Cloud Solution Template Kit by Jegtheme</li>
+          <li>Cloud Solution Template Kit by Tahi Sakhi.</li>
         </div>
       </div>
     </div>
