@@ -70,13 +70,7 @@ function Footer() {
             <h2>Contact Info</h2>
             <div className="ContactInfoItems">
               <ul>
-<<<<<<< HEAD
                 <li>Jutial Gilgit</li>
-=======
-                <li>
-                 Jutial Gilgit
-                </li>
->>>>>>> origin/master
                 <li>support@domain.com</li>
                 <li>(+92) 3441803316</li>
               </ul>
@@ -86,19 +80,11 @@ function Footer() {
       </div>
       <div className="copyright">
         <div className="copyrightItems">
-<<<<<<< HEAD
           <li>Copyright © {currentYear} Tahira Sakhi. All rights reserved.</li>
           <li>
             <img src="./src/components/footer/t.jpg" alt="" />
           </li>
           <li>Cloud Solution Template Kit by Tahira Sakhi.</li>
-=======
-          <li>Copyright © {currentYear} Tahi Sakhi. All rights reserved.</li>
-          <li>
-            <img src="./src/components/footer/t.jpg" alt="" />
-          </li>
-          <li>Cloud Solution Template Kit by Tahi Sakhi.</li>
->>>>>>> origin/master
         </div>
       </div>
     </div>
