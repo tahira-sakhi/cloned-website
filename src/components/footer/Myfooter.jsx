@@ -72,7 +72,7 @@ function Footer() {
               <ul>
                 <li>Jutial Gilgit</li>
                 <li>support@domain.com</li>
-                <li>(+92) 3441803316</li>
+                <li>(+92)344567890</li>
               </ul>
             </div>
           </div>
