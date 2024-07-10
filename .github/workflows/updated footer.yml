@@ -3,7 +3,7 @@ name: Deploy Vite App to GitHub Pages
 on:
   push:
     branches:
-      - main # Ensure this matches your default branch name
+      - master # Ensure this matches your default branch name
 
 jobs:
   build-and-deploy:
