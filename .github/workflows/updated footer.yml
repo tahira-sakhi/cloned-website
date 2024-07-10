@@ -3,7 +3,7 @@ name: Deploy Vite App to GitHub Pages
 on:
   push:
     branches:
-      - master # Ensure this matches your default branch name
+      - master
 
 jobs:
   build-and-deploy:
@@ -29,4 +29,6 @@ jobs:
         with:
           github_token: ${{secrets.DEPLOY_TOKEN}}
           publish_dir: ./dist
+          # Add these options to increase the timeout if available
+          publish_timeout: 600 # Increase timeout to 10 minutes
 
